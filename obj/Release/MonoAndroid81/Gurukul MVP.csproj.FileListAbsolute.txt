@@ -1,0 +1,67 @@
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Gurukul MVP.dll
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Gurukul MVP.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Gurukul_MVP.Gurukul_MVP.apk
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Gurukul_MVP.Gurukul_MVP-Signed.apk
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Xamarin.Android.Arch.Core.Common.dll
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Xamarin.Android.Support.Annotations.dll
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Xamarin.Android.Support.Compat.dll
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Xamarin.Android.Support.Percent.dll
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res.flag
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\Gurukul MVP.csproj.CoreCompileInputs.cache
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\Gurukul MVP.csproj.CopyComplete
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\Gurukul MVP.dll
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\Gurukul MVP.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\android\bin\Gurukul_MVP.Gurukul_MVP.apk
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\font\hindifont.ttf
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\values\strings.xml
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\onclickactivities_u5.jpg
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\layout\main.xml
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\layout\variousoptionsforkids.xml
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\layout\hindivarnamalalayout_old.xml
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\aam.png
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\batak.png
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\hindialphabet.jpg
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\layout\hindivarnamala_old2.xml
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\layout\flashcards.xml
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\aam_txt.png
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\font\hindifontdisplay.xml
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\soundicon.png
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\homeicon.png
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\lefticon.png
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\righticon.png
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\drawable\ainak.png
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\res\layout\hindivarnamala.xml
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\R.cs.flag
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\R.txt
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\uploadflags.txt
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Mono.Android.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\mscorlib.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\System.Core.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\System.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\System.Xml.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\System.ComponentModel.Composition.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\System.Net.Http.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\System.Runtime.Serialization.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\System.ServiceModel.Internals.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Mono.Security.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\Mono.Android.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\mscorlib.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\System.Core.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\System.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\System.Xml.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\System.Net.Http.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\Mono.Security.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\linksrc\Gurukul MVP.dll.mdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\Gurukul MVP.csprojAssemblyReference.cache
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\bin\Release\Gurukul MVP.dll.mdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\android\assets\Gurukul MVP.dll.mdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\android\assets\Mono.Android.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\android\assets\mscorlib.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\android\assets\System.Core.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\android\assets\System.pdb
+D:\2018\Gurukul\Gurukul MVP\Gurukul MVP\obj\Release\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
