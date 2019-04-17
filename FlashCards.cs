@@ -157,7 +157,7 @@ namespace Gurukul_MVP
                 if(right==3)
                 {
                     image.SetBackgroundResource(Resource.Drawable.Ainak);
-                    text.Text = "ainak";
+                    text.Text = "ऐनक";
                     _player = MediaPlayer.Create(this, Resource.Raw.Ainak);
                     left = 3;
                     right = 4;
