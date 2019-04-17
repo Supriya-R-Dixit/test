@@ -1,1 +1,0 @@
-<GridView android:id="@+id/gridview" android:columnWidth="90dp" android:numColumns="auto_fit" android:background="@drawable/hindialphabet" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="test" xmlns:android="http://schemas.android.com/apk/res/android" />

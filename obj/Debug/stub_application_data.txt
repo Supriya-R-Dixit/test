@@ -1,2 +1,0 @@
-android.app.Application
-Gurukul_MVP.Gurukul_MVP
